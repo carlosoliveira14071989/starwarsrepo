@@ -1,6 +1,6 @@
 #Star Wars Repo
 
 
-![Tfight](./tiefighter.jpeg)
+![text](./tiefighter.jpeg?raw=true "Title")
 
 Este repositorio serve de exemplo para o curso de git e github
